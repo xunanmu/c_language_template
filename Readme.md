@@ -39,4 +39,4 @@ date: 2020-03-13 01:52:51
 - [queue.h](http://blog.xunanmu.com/2020/03/13/queue.h/)
 - [list.h](http://blog.xunanmu.com/2020/03/13/list.h/)
 
-github下载[https://github.com/xunanmu/c_language_template.git](https://github.com/xunanmu/c_language_template.git)
+国内下载[https://gitee.com/xunanmu/c_language_template.git](https://gitee.com/xunanmu/c_language_template.git)
