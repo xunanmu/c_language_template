@@ -271,7 +271,7 @@ int lastIndexOf(T data) {                                                       
         if (this.cmp(&data,array+i)==0)                                             \
             return i;                                                               \
     }                                                                               \
-    return -1                                                                       \
+    return -1;                                                                       \
 }                                                                                   \
                                                                                     \
 array(T) setcmp(int (*cmp)(const void *data, const void* temp)) {                   \
