@@ -17,15 +17,3 @@ int main() {
 
     return 0;
 }
-
-void print_char(char c) {
-    printf("%c ", c);
-}
-
-void print_person(Person one) {
-    printf("<%s,%s,%d>\n", one.name, one.sex, one.age);
-}
-
-int agecmp(const void *one, const void *two) {
-    return ((Person *) one)->age > ((Person *) two)->age;
-}
