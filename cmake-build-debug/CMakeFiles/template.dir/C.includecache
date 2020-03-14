@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/jetbrians/c/template/array.h
+template.h
+D:/jetbrians/c/template/template.h
+
+D:/jetbrians/c/template/main.c
+stdio.h
+-
+array.h
+D:/jetbrians/c/template/array.h
+
+D:/jetbrians/c/template/template.h
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+stdbool.h
+-
+
