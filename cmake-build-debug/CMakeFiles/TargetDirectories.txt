@@ -1,3 +1,0 @@
-D:/jetbrians/c/template/cmake-build-debug/CMakeFiles/template.dir
-D:/jetbrians/c/template/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/jetbrians/c/template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
